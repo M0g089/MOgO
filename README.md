@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Gozlan</h1>
 <h3 align="center">A passionate frontend Junior developer from Israel</h3>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0g089" alt="m0g089" /></a> </p>
 
